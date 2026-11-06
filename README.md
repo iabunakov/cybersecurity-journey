@@ -8,4 +8,4 @@ Documenting my path from beginner to SOC analyst.
 - Land a junior security analyst role
 
 ## Log
-- Day 1: Started. Set up accounts and began networking basics.
+- Day 1: Started TryHackMe Pre Security (31%), learned the OSI model
